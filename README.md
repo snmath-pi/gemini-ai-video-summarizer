@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/siddharthsky/ai-video-summarizer-and-timestamp-generator-LLM-p"><img src="https://i.imgur.com/Jk1wxO3.png" alt="AI YouTube Video Summarizer" width="200"></a>
-  <br>
+  
    🎥 AI Video Summarization & Timestamp Generator
   <br>
 </h1>
